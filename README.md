@@ -1,6 +1,6 @@
 # shopping_list
 
-A new Flutter project.
+Flutter diaries a new project. :)
 
 ## Getting Started
 
